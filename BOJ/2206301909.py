@@ -4,6 +4,7 @@ n = int(input())
 i = 1
 sum = 0
 
+# 1씩 줄여가면서 더하기
 while n > 0:
     sum += n
     n -= i
