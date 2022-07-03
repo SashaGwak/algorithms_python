@@ -9,7 +9,7 @@ Study Note
 <hr/>
 
 ## Algorithms 
-[* brute force](https://github.com/SashaGwak/algorithms_python/tree/main/BOJ/brute_force)
+* [brute force](https://github.com/SashaGwak/algorithms_python/tree/main/BOJ/brute_force)
 ## Data structures
 ## Books
 <hr/>
