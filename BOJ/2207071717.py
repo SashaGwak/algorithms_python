@@ -7,9 +7,9 @@
 import sys
 
 N, X = map(int, sys.stdin.readline().split())
-num_list = list(map(int, sys.stdin.readline().split()))
+A = list(map(int, sys.stdin.readline().split()))
 result = []
 
-for i in num_list:
+for i in A:
     if int(i) < X: 
         print(i, end=" ")
